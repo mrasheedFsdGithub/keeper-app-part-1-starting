@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.53635dd1.js",
-    "index.html": "/index.html",
-    "main.53635dd1.js.map": "/static/js/main.53635dd1.js.map"
+    "main.js": "/keeper-app-part-1-starting/static/js/main.53635dd1.js",
+    "index.html": "/keeper-app-part-1-starting/index.html",
+    "main.53635dd1.js.map": "/keeper-app-part-1-starting/static/js/main.53635dd1.js.map"
   },
   "entrypoints": [
     "static/js/main.53635dd1.js"
